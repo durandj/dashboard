@@ -4,6 +4,7 @@
   "description": "A Chrome dashboard application",
   "main": "app/js/background.js",
   "dependencies": {
+    "bower": "^1.3.12",
     "grunt-init": "^0.3.2"
   },
   "devDependencies": {
