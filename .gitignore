@@ -1,0 +1,7 @@
+*.swo
+*.swp
+
+/dist
+/lib
+/node_modules
+

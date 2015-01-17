@@ -1,0 +1,10 @@
+div.clock
+{
+	text-align: center;
+}
+
+.clock span
+{
+	font-size: 2em;
+}
+

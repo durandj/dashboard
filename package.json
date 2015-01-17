@@ -1,0 +1,32 @@
+{
+  "name": "dashboard",
+  "version": "0.0.1",
+  "description": "A Chrome dashboard application",
+  "main": "app/js/background.js",
+  "dependencies": {
+    "grunt-init": "^0.3.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.4.1",
+    "grunt-contrib-compress": "^0.5.3",
+    "grunt-contrib-concat": "^0.3.0",
+    "grunt-contrib-copy": "^0.4.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "^0.1.2",
+    "grunt-crx": "^0.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/durandj/dashboard"
+  },
+  "author": "James Durand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/durandj/dashboard/issues"
+  },
+  "homepage": "https://github.com/durandj/dashboard"
+}
